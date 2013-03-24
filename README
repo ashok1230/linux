@@ -1,0 +1,8 @@
+How to excute:
+
+This program excute in interpreter mode.
+first we have to copy this file in lib folder in python27 folder.
+then restart the python interpreter.
+import the linux module
+dir print the methods in that module.
+then excute the methodds in linux module.
